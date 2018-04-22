@@ -3,6 +3,8 @@ title: 'SGL : StarGate, la Légende'
 body_classes: 'title-center title-h1h2'
 ---
 
+![](StarGate%20Legende%20Oneil.png)
+
 # Documentation du jeu
 
 !!! En cours de développement
