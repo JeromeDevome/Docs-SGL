@@ -1,11 +1,9 @@
 ---
-title: SGL
+title: 'SGL : StarGate, la Légende'
 body_classes: 'title-center title-h1h2'
 ---
 
-# SGL : StarGate, la Légende
-
-## Documentation du jeu
+# Documentation du jeu
 
 !!! En cours de développement
 
