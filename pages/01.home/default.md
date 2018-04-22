@@ -3,7 +3,9 @@ title: SGL
 body_classes: title-center title-h1h2
 ---
 
-# SG, Légende
+# SGL : StarGate, la Légende
+
+## Documentation du jeu
 
 !!! En cours de développement
 
@@ -11,9 +13,12 @@ body_classes: title-center title-h1h2
 
 SGL est un jeu...
 
-### LIENS UTILS
+### LIENS UTILES
 
-Lien du jeu
-Lien du site
-Lien du règlement
-Lien du forum
+Le jeu : [https://sgl.devome.com](https://sgl.devome.com) 
+
+Lien du site : [https://site.devome.com/fr/sgl](https://site.devome.com/fr/sgl) 
+
+Lien du règlement : Prochainement
+
+Lien du forum : Prochainement
