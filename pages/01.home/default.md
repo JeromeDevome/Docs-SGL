@@ -18,4 +18,4 @@ SGL est un jeu...
 * Le jeu : [https://sgl.devome.com](https://sgl.devome.com) 
 * Lien du site : [https://site.devome.com/fr/sgl](https://site.devome.com/fr/sgl) 
 * Lien du règlement : Prochainement
-* Lien du forum : https://site.devome.com/fr/kunena/stargate-legende
+* Lien du forum : [https://site.devome.com/fr/kunena/stargate-legende](https://site.devome.com/fr/kunena/stargate-legende)
